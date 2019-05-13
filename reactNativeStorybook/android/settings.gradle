@@ -1,0 +1,3 @@
+rootProject.name = 'reactNativeStorybook'
+
+include ':app'
