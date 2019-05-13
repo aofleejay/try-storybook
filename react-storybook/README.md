@@ -1,4 +1,4 @@
-# Try Storybook
+# React Storybook
 📚 Repository for practice about storybook.
 
 ## 🚀 Quick start
